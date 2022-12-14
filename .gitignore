@@ -1,5 +1,5 @@
 .DS_Store
-Icon
+Icon*
 .ipynb_checkpoints
 5/data
 *.pkl
